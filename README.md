@@ -11,7 +11,7 @@ you have to extract:
   finn_code: {code}
 }
 
-Step 1: Your pipeline will receive a POST request from postman with finn code.
-Step 2: It will extract this 4 values from the webpage/html.
-Step 3: After extracting keep the key name as key and value name as value plus add the finn code in the document/dict.
+- Step 1: Your pipeline will receive a POST request from postman with finn code.
+- Step 2: It will extract these 4 values from the webpage/html.
+- Step 3: After extracting keep the key name as key and value name as value plus add the finn code in the document/dict.
 
